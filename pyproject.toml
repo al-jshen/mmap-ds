@@ -6,6 +6,7 @@ readme = "README.md"
 authors = [
     { name = "Jeff Shen", email = "jshen2014@hotmail.com" }
 ]
+url = "https://github.com/al-jshen/mmap-seq-ds"
 requires-python = ">=3.12"
 dependencies = [
     "msgpack>=1.1.2",
