@@ -3,7 +3,7 @@ import tempfile
 
 import numpy as np
 
-from mmap_ds import MMapDataset, write_sharded_mmap_dataset
+from mmap_seq_ds import MMapDataset, write_sharded_mmap_dataset
 
 
 def test_general():
